@@ -33,7 +33,7 @@ A "lings" project is a CLI-based interactive tutorial. Typically, it:
 *   **[goforgo](https://github.com/stonecharioteer/goforgo)** (Go) - An alternative Go CLI tutorial.
 *   **[Ziglings](https://codeberg.org/ziglings/exercises)** (Zig) - Self-contained Zig exercises (hosted on Codeberg).
 *   **[Cplings](https://github.com/rdjondo/cplings)** (C++) - Learn C++ by fixing compiler errors.
-*   **[Clings](https://github.com/tonybanters/clings)** (C) - Clings by Tony-Btw.
+*   **[Clings-Btw](https://github.com/tonybanters/clings)** (C) - Clings by Tony-Btw.
 *   **[Clings](https://github.com/danwritecode/clings)** (C) - C learning exercises.
 *   **[Asmlings](https://github.com/KazeTachinuu/asmlings)** (x86-64 Assembly) - Learn Assembly programming.
 *   **[Nimlings](https://github.com/sergiotapia/nimlings)** (Nim) - Learn the Nim language.
